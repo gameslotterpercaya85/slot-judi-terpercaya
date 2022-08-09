@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-judi-terpercaya",
+        "command": "slot-judi-terpercaya:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-judi-terpercaya",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-judi-terpercaya:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
